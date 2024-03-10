@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @pradhumnnnn
-- 👀 I’m interested in FrontEnd
+- 👋 Hi, I’m Pradhumn Pratap Singh Chouhan.
+- 👀 I’m interested in FrontEnd Development.
 - 🌱 I’m currently learning React as i am  new in development field .
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me (@pradhumnnn) => {Instagram}
